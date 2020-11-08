@@ -1,4 +1,3 @@
-
 --Query employees born between 1952 and 1955
 SELECT first_name, last_name
 FROM employees
